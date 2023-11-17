@@ -1,0 +1,1 @@
+# migo-static-website
